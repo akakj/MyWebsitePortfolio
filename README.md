@@ -55,7 +55,7 @@ This is a personal portfolio, but feel free to open issues or PRs for suggestion
 
 ## 📄 License
 
-No license specified yet. If you want others to be able to use parts of this project, add a `LICENSE` file (MIT is a common choice for portfolios).
+No license specified yet.
 
 ---
 
@@ -63,7 +63,7 @@ No license specified yet. If you want others to be able to use parts of this pro
 
 **Anna Kandyba (**[@akakj](https://github.com/akakj))
 
-* **Portfolio:** *annakandyba.com*
+* **Portfolio:** [annakandyba.com]*annakandyba.com*
 * **LinkedIn:**  *[linkedin.com/in/anna-kandyba/](https://www.linkedin.com/in/anna-kandyba/)*
 
 ---
